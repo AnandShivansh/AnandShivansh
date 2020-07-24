@@ -7,7 +7,7 @@
 <a href=https://instagram.com/_shivansh__anand_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_shivansh__anand_" height="20" width="20" /></a>
 </p>
 <ul align="center">
-  <li> 💬 Ask me about <b>Android, Reactjs, C++, Python, C etc</b></li>
+  <li> 💬 Ask me about <b>Android, Reactjs, C++, OpenCV, C etc</b></li>
 </ul>
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=anandshivansh&show_icons=true alt=anandshivansh /> 
 </p>
