@@ -9,3 +9,4 @@
 <ul align="center">
   <li> 💬 Ask me about <b>Android, Reactjs, C++, Python, C etc</b></li>
 </ul>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=anandshivansh&show_icons=true alt=anandshivansh /> </p>
