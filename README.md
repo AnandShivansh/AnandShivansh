@@ -8,5 +8,5 @@
 <a href=https://instagram.com/_shivansh__anand_ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="_shivansh__anand_" height="20" width="20" /></a>
 </p>
 <ul align="center">
-  <li> 💬 Ask me about <b>Java, Android, Reactjs, C++, C etc</b></li>
+  <li> 💬 Ask me about <b>Java, Android, Reactjs, C++, C, Python, AI etc</b></li>
 </ul>
