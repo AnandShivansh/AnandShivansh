@@ -1,0 +1,13 @@
+{
+  "name": "anandshivansh-profile",
+  "private": true,
+  "description": "Dev tooling for the GitHub profile README",
+  "scripts": {
+    "lint": "markdownlint README.md",
+    "lint:fix": "markdownlint --fix README.md",
+    "check": "npm run lint"
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.44.0"
+  }
+}
